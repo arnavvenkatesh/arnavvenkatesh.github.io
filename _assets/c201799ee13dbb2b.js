@@ -1,0 +1,10 @@
+(globalThis["webpackChunk_canva_web"] = globalThis["webpackChunk_canva_web"] || []).push([[69312],{
+
+/***/ 37420:
+function(_, __, __webpack_require__) {__webpack_require__.n_x = __webpack_require__.n;const __web_req__ = __webpack_require__;__web_req__(905716);__web_req__(396783);globalThis._5f74ec40302898c5a55451c9fbd04240 = globalThis._5f74ec40302898c5a55451c9fbd04240 || {};(function(__c) {var $0;__c.a1=function({C:a,X:b,Da:c,size:d,Dy:e,Ey:f}){const g=$0(()=>d.get()*a.fontSize);b=new __c.ZX({Jb:{enter:{size:{value:k=>e?0:k}},update:{size:{value:k=>k}},exit:{size:{value:k=>f?0:k,g5:!f}},Rf:{size:!0}},data:$0(()=>g.get()===0?[]:[g.get()]),X:b,C:a,fl:0,sn:0,mf:500,Kf:500,nf:500,getKey:()=>"size"});const {Dl:h}=c(b);return{size:g,OK:function(){const k=h();return mgc(()=>$0(()=>k.get().at(0)?.bc.size.get()??0),[k])}}};$0=__webpack_require__(186901).EW;var mgc=__webpack_require__(205482).useMemo;var b1;
+b1=class{static G(a){__c.L(a,{n6a:$0,spacing:$0,dab:$0,m_a:$0,N:$0,height:$0,alignmentOffset:$0,offset:$0})}get n6a(){return this.zl.filter(a=>a!==0)}get spacing(){return this.O4*this.C.fontSize}get dab(){return this.zl.reduce((a,b)=>a+b,0)}get m_a(){return this.zl.length?this.spacing*(this.n6a.length-1):0}get N(){return this.dab+this.m_a}get height(){return Math.max(this.N,this.minHeight)}get alignmentOffset(){const a=this.height-this.N;switch(this.align){case "start":return 0;case "center":return a/2;
+case "end":return a;default:throw new __c.A(this.align);}}get offset(){return this.alignmentOffset+this.rL}constructor(a,b,c,d,e,f){this.C=a;this.zl=b;this.O4=c;this.rL=d;this.minHeight=e;this.align=f;b1.G(this)}};__c.ngc=class{position(a,{spacing:b,offset:c,minHeight:d,align:e}){a=new b1(this.C,a,b,c,d,e);b=[];c=a.offset;for(const f of a.zl)b.push(c),f!==0&&(c+=f+a.spacing);return b}height(a,{offset:b,spacing:c,minHeight:d,align:e}){return(new b1(this.C,a,c,b,d,e)).height}constructor(a){this.C=a}};
+}).call(globalThis, globalThis._5f74ec40302898c5a55451c9fbd04240);}
+
+}])
+//# sourceMappingURL=sourcemaps/c201799ee13dbb2b.js.map

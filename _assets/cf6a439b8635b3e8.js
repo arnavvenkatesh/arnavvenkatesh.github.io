@@ -1,0 +1,10 @@
+(globalThis["webpackChunk_canva_web"] = globalThis["webpackChunk_canva_web"] || []).push([[64414],{
+
+/***/ 632050:
+function(_, __, __webpack_require__) {__webpack_require__.n_x = __webpack_require__.n;const __web_req__ = __webpack_require__;__web_req__(905716);globalThis._5f74ec40302898c5a55451c9fbd04240 = globalThis._5f74ec40302898c5a55451c9fbd04240 || {};(function(__c) {var YAc=__webpack_require__(322594),Z5=YAc.jsx,ZAc=YAc.jsxs;var $Ac=__webpack_require__(87387).A;var aBc=__webpack_require__(721226).PA;var bBc=__webpack_require__(205482),cBc=bBc.useCallback,dBc=bBc.useMemo,eBc=bBc.useState;var fBc=__webpack_require__(34741).A;var gBc=class{get Z_(){return!this.Oj.active}get pF(){return __c.dr()||this.Db||this.hi}get d0(){return!this.pF}get Db(){return this.Ej.Db(this.fill)}get Kd(){return this.Ej.Kd(this.fill)}get hi(){return this.Ej.hi(this.fill)}get Fi(){return this.Ej.Fi(this.fill)}get duration(){return this.Ej.getDuration(this.fill)}get fo(){return this.Ej.getState(this.fill).fo}get currentTime(){return this.Ej.getCurrentTime(this.fill)}get aj(){return __c.Cw(this.Ej,this.fill)}get volume(){return this.Ej.getVolume(this.fill)}get muted(){return this.volume===
+0}constructor(a,b,c){this.Ej=a;this.fill=b;this.Oj=c;this.contentType=1;this.ia=this.zIndex=void 0;this.r$=this.UI=this.tN=this.wz=this.FEa=this.cEa=this.rF=this.p$=!0;this.pN=this.SLa=!1}};__c.A_a=aBc(a=>{const {Ej:b,POa:c,Djb:d,...e}=a,f=e.item;__c.x(f.type==="design");const [g,h]=eBc(0),k=dBc(()=>new __c.L8a,[]),l=__c.z(__c.jx(c,__c.z(f.ba.first()))),m=cBc(r=>{r!=null&&k.vca(r)},[k]),n=k.active?{width:g,left:0}:a.ag,p=dBc(()=>new gBc(b,l,k),[l,k,b]),q=dBc(()=>new __c.Iw(b,l),[l,b]);return a.ha.rd?.Opa!=null?Z5(d,{...e}):Z5(fBc,{onResize:r=>h(r.entry?.width??0),children:({measureRef:r})=>ZAc("div",{ref:$Ac(m,r),className:"jkKFFw",children:[Z5(d,{...e,ag:n}),Z5(__c.Hw,{store:p,controller:q,
+Vqa:!0,Oj:k})]})})});
+}).call(globalThis, globalThis._5f74ec40302898c5a55451c9fbd04240);}
+
+}])
+//# sourceMappingURL=sourcemaps/cf6a439b8635b3e8.js.map

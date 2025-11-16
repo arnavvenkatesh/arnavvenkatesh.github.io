@@ -1,0 +1,13 @@
+(globalThis["webpackChunk_canva_web"] = globalThis["webpackChunk_canva_web"] || []).push([[38971],{
+
+/***/ 106427:
+function(_, __, __webpack_require__) {__webpack_require__.n_x = __webpack_require__.n;const __web_req__ = __webpack_require__;__web_req__(905716);globalThis._5f74ec40302898c5a55451c9fbd04240 = globalThis._5f74ec40302898c5a55451c9fbd04240 || {};(function(__c) {var arc=function(a){const b=Zqc.box(0),c=Zqc.box(a.Bra),d=$qc(()=>{const {start:e,end:f,Cm:g,Yb:h,easing:k}=c.get();var l=a.dC;var m=a.definition,n=m.Cm,p=m.Yb;m=m.Xr;l=l?l.get()*m*(n+p):b.get();if(l<g)return e;if(l>=g+h)return f;l-=g;if(m=a.ph?.get()){n=m.start;p=m.end;const q=m.easing;m=q(n*e,p*f,l,h);l=q(n,p,l,h);return m/l}return k(e,f,l,h)});a.$r={Hq:b,definition:c,state:d}},T3=__webpack_require__(186901),$qc=T3.EW,brc=T3.h5,Zqc=T3.sH,crc=T3.XI;var drc,erc;
+drc=class{get definition(){return this.$r?.definition.get()??this.Bra}set definition(a){this.$r?.definition.set(a);this.Bra=a}get state(){return this.$r?.state??{get:()=>this.definition.end,set:()=>{}}}play(){this.$r!=null&&(this.playing=!0,this.X.play())}pause(){this.playing=!1}tick(a){if(this.$r!=null){var b=this.definition.Yb,c=this.definition.Cm,d=this.definition.Zl;a=this.$r.Hq.get()+a;a>=b+c?(this.$r.Hq.set(b+c),this.pause(),d?.()):this.$r.Hq.set(a)}}update({end:a,Yb:b,Cm:c,Xr:d,easing:e,Zl:f,
+Gva:g}){const h=this.state.get();this.Bra=d={start:h,end:a,Yb:b,Cm:c,Xr:d,easing:e,Zl:f};if(g||h!==a){if(this.$r!=null)this.$r.definition.set(d),this.$r.Hq.set(0);else if(d.start!==d.end&&d.Yb!==0||g)arc(this);else{f?.();return}this.play()}else this.$r!=null&&(this.$r.definition.set(d),this.$r.Hq.set(b+c)),this.pause(),f?.()}lv(a){brc(()=>{const b=this.definition.Yb,c=this.definition.Cm;__c.u(a>=0&&a<=b+c);this.$r!=null&&this.$r.Hq.set(a)})}NBa(a){this.dC=a;this.pause()}constructor(a,b,c){this.X=
+b;this.playing=!1;this.Bra=a;this.ph=c;a.start!==a.end&&a.Yb!==0&&arc(this)}};
+erc=class{static G(a){__c.L(a,{tick:crc})}play(){this.playing||(this.VEa=this.now(),this.playing=!0,this.requestAnimationFrame(this.tick))}pause(){this.playing=!1}zva(a,b){a=new drc(a,this,b);this.animations.add(a);return a}p$a(a){this.animations.delete(a)}constructor(a=c=>window.requestAnimationFrame(c),b=()=>performance.now()){this.requestAnimationFrame=a;this.now=b;this.playing=(erc.G(this),!1);this.animations=new Set;this.VEa=0;this.tick=c=>{if(this.playing){var d=!1,e=c-this.VEa;for(const f of this.animations)f.playing&&
+(f.tick(e),d=d||f.playing);this.VEa=c;d?this.requestAnimationFrame(this.tick):this.pause()}}}};__c.Av={};__c.Av.ETb=drc;__c.Av.HPa=erc;
+}).call(globalThis, globalThis._5f74ec40302898c5a55451c9fbd04240);}
+
+}])
+//# sourceMappingURL=sourcemaps/9854a32b6e001ce6.js.map

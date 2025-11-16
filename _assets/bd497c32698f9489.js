@@ -1,0 +1,12 @@
+(globalThis["webpackChunk_canva_web"] = globalThis["webpackChunk_canva_web"] || []).push([[79745],{
+
+/***/ 920429:
+function(_, __, __webpack_require__) {__webpack_require__.n_x = __webpack_require__.n;const __web_req__ = __webpack_require__;__web_req__(905716);__web_req__(258551);__web_req__(586838);__web_req__(920725);__web_req__(246393);globalThis._5f74ec40302898c5a55451c9fbd04240 = globalThis._5f74ec40302898c5a55451c9fbd04240 || {};(function(__c) {var z0=__c.z0;var GGc=__webpack_require__(322594),b7=GGc.jsx,c7=GGc.jsxs;var HGc=__webpack_require__(721226).PA;var IGc=__webpack_require__(186901),JGc=IGc.sH,KGc=IGc.XI;var LGc,MGc,NGc,OGc;LGc=__c.h_({D:__c.g_({l_a:z0.Ux(1),bTa:z0.Ux(2),k_a:z0.Km(3,"Fill"),aTa:z0.Km(4,"Fill"),V:z0.lF(5),...__c.X0(6)})});MGc=__c.XZ()(()=>({createDefault(){return{data:{D:{l_a:"When do kookaburras 'laugh' the most?",bTa:"Dawn and dusk",k_a:{...__c.hD,color:"#ffbd59"},aTa:{...__c.hD,color:"#7ed957"},V:20,Vv:__c.Y0({fontWeight:"bold",size:16,textAlign:"center"})},document:{}},P:{width:400,height:200}}}}));
+NGc=class{static G(a){__c.L(a,{oEa:JGc.ref})}constructor(a){NGc.G(this);this.oEa=a}};
+OGc=__c.IZ()(()=>({metadata:{type:"demo-9",name:__c.tb("vAIjvQ",[9])},F6:()=>new NGc(!1),D:__c.HZ(HGc(({data:{D:a,local:b},De:c})=>{const d=b.oEa;return b7("div",{className:"uYWfzg",onClick:KGc(()=>{b.oEa=!d}),children:b7("div",{className:`${"S_dK9w"} ${d?"jOUjEg":""}`,children:c7("div",{className:"_0CDycQ",children:[c7("div",{className:"qY2Chg",children:[b7("div",{className:"brO_NQ",style:{borderRadius:`${a.V}px`},children:b7(c.an,{fill:a.k_a})}),c7("div",{className:"hxs9tg",children:[b7("div",{children:b7(c.ek,
+{text:__c.Yh.create({...__c.HF,stream:__c.Yg.Kb().attrs({...__c.m2(a.Vv),color:"#000000"}).lb(a.l_a).zq().build()})})}),b7("div",{children:b7(c.ek,{text:__c.Yh.create({...__c.HF,stream:__c.Yg.Kb().attrs({...__c.m2(a.Vv),color:"#000000","font-weight":"normal","font-size":(a.Vv.size??16)/2}).lb("(Tap to reveal)").zq().build()})})})]})]}),c7("div",{className:"_0lBZVg",children:[b7("div",{className:"brO_NQ",style:{borderRadius:`${a.V}px`},children:b7(c.an,{fill:a.aTa})}),b7("div",{className:"hxs9tg",
+children:b7("div",{children:b7(c.ek,{text:__c.Yh.create({...__c.HF,stream:__c.Yg.Kb().attrs({...__c.m2(a.Vv),color:"#000000"}).lb(a.bTa).zq().build()})})})})]})]})})})})),exports:{}}));__c.w_={Bh:MGc,Oo:OGc,Ch:LGc};
+}).call(globalThis, globalThis._5f74ec40302898c5a55451c9fbd04240);}
+
+}])
+//# sourceMappingURL=sourcemaps/bd497c32698f9489.js.map
